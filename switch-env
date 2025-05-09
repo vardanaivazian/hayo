@@ -1,0 +1,3 @@
+# Switch your existing app to development mode
+heroku config:set NODE_ENV=development --remote europe
+heroku config:set NODE_ENV=production --remote europe

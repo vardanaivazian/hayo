@@ -1,0 +1,3336 @@
+{
+  "totalPartners": 555,
+  "fetchDate": "2025-03-13T15:36:24.529Z",
+  "partners": [
+    {
+      "name": "lava",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737137196490.png",
+      "collections": 0,
+      "link": "lava.ortak.me"
+    },
+    {
+      "name": "elitbahis",
+      "logo": "https://res.ortak1.me/assets/themes/images/172621030560.png",
+      "collections": 6,
+      "link": "ortak.nftclub.pro"
+    },
+    {
+      "name": "bovbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/172381415741.png",
+      "collections": 3,
+      "link": "bovbetnft.ortak.me"
+    },
+    {
+      "name": "Fashionbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1735124648330.png",
+      "collections": 0,
+      "link": "fashionbet.ortak.me"
+    },
+    {
+      "name": "Casinodior",
+      "logo": "https://res.ortak1.me/assets/themes/images/1726469696213.png",
+      "collections": 2,
+      "link": "casinodior.ortak.me"
+    },
+    {
+      "name": "Casinomobi",
+      "logo": "https://res.ortak1.me/assets/themes/images/1726134974199.png",
+      "collections": 2,
+      "link": "casinomobi.ortak.me"
+    },
+    {
+      "name": "casivera",
+      "logo": "https://res.ortak1.me/assets/themes/images/1724745157127.png",
+      "collections": 2,
+      "link": "casiveranft.ortak.me"
+    },
+    {
+      "name": "casilobi",
+      "logo": "https://res.ortak1.me/assets/themes/images/1724658130110.png",
+      "collections": 1,
+      "link": "casilobi.ortak.me"
+    },
+    {
+      "name": "metrobahis",
+      "logo": "https://res.ortak1.me/assets/themes/images/1726469025102.png",
+      "collections": 3,
+      "link": "metronft.ortak.me"
+    },
+    {
+      "name": "telebet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1726470105101.png",
+      "collections": 3,
+      "link": "telenft.ortak.me"
+    },
+    {
+      "name": "avrupabet",
+      "logo": "https://res.ortak1.me/assets/themes/images/172733437694.png",
+      "collections": 2,
+      "link": "avrupa.ortak.me"
+    },
+    {
+      "name": "betreward",
+      "logo": "https://res.ortak1.me/assets/themes/images/172467213079.png",
+      "collections": 6,
+      "link": "betrewardnft.com"
+    },
+    {
+      "name": "misalibet",
+      "logo": "https://res.ortak1.me/assets/themes/images/172381387052.png",
+      "collections": 2,
+      "link": "misalibetnft.ortak.me"
+    },
+    {
+      "name": "betnubnft",
+      "logo": "https://res.ortak1.me/assets/themes/images/172381408245.png",
+      "collections": 2,
+      "link": "betnubnft.ortak.me"
+    },
+    {
+      "name": "betfido",
+      "logo": "https://res.ortak1.me/assets/themes/images/172381410643.png",
+      "collections": 5,
+      "link": "betfido-ftn.com"
+    },
+    {
+      "name": "Casinodunya",
+      "logo": "https://res.ortak1.me/assets/themes/images/172381414740.png",
+      "collections": 2,
+      "link": "casinodunyanft.ortak.me"
+    },
+    {
+      "name": "setrabit",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737103911477.png",
+      "collections": 0,
+      "link": "setrabit.com"
+    },
+    {
+      "name": "Taigabet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736853809369.png",
+      "collections": 0,
+      "link": "taigabet.ortak.me"
+    },
+    {
+      "name": "Betlive",
+      "logo": "https://res.ortak1.me/assets/themes/images/ortak.svg",
+      "collections": 0,
+      "link": "betlive.ortak.me"
+    },
+    {
+      "name": "Rekorbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1734011095317.png",
+      "collections": 2,
+      "link": "rekorbet.ortak.me"
+    },
+    {
+      "name": "Dadosbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1733322881305.png",
+      "collections": 0,
+      "link": "dadosbet.ortak.me"
+    },
+    {
+      "name": "BFTH",
+      "logo": "https://res.ortak1.me/assets/themes/images/1728656168265.png",
+      "collections": 1,
+      "link": "bfth.ortak.me"
+    },
+    {
+      "name": "Nowbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1728374837250.png",
+      "collections": 1,
+      "link": "nowbetnft.com"
+    },
+    {
+      "name": "Ultrabet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1729494806239.png",
+      "collections": 0,
+      "link": "ultrakripto.io"
+    },
+    {
+      "name": "Betpipo",
+      "logo": "https://res.ortak1.me/assets/themes/images/1727070898230.png",
+      "collections": 1,
+      "link": "betpiponft.ortak.me"
+    },
+    {
+      "name": "oslobet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1726127661164.png",
+      "collections": 2,
+      "link": "oslobetnft.ortak.me"
+    },
+    {
+      "name": "Tiktakto",
+      "logo": "https://res.ortak1.me/assets/themes/images/1725263093150.png",
+      "collections": 1,
+      "link": "tiktakto.ortak.me"
+    },
+    {
+      "name": "casiwoon",
+      "logo": "https://res.ortak1.me/assets/themes/images/1724658632115.png",
+      "collections": 1,
+      "link": "casiwwoon.ortak.me"
+    },
+    {
+      "name": "casinbo",
+      "logo": "https://res.ortak1.me/assets/themes/images/1724657720104.png",
+      "collections": 1,
+      "link": "casinbo.ortak.me"
+    },
+    {
+      "name": "atlantisbahis",
+      "logo": "https://res.ortak1.me/assets/themes/images/1724657681103.png",
+      "collections": 1,
+      "link": "atlantisbahis.ortak.me"
+    },
+    {
+      "name": "eclipsebet",
+      "logo": "https://res.ortak1.me/assets/themes/images/172526233792.png",
+      "collections": 2,
+      "link": "eclipsebetnft.ortak.me"
+    },
+    {
+      "name": "bymaske",
+      "logo": "https://res.ortak1.me/assets/themes/images/173010373691.png",
+      "collections": 0,
+      "link": "1bymaske.ortak.me"
+    },
+    {
+      "name": "between",
+      "logo": "https://res.ortak1.me/assets/themes/images/172407828180.png",
+      "collections": 1,
+      "link": "betweenftn.com"
+    },
+    {
+      "name": "betmomo",
+      "logo": "https://res.ortak1.me/assets/themes/images/172672901766.png",
+      "collections": 2,
+      "link": "betmomo.ortak.me"
+    },
+    {
+      "name": "rinabet",
+      "logo": "https://res.ortak1.me/assets/themes/images/172526357765.png",
+      "collections": 1,
+      "link": "rinanft.ortak.me"
+    },
+    {
+      "name": "yenibet",
+      "logo": "https://res.ortak1.me/assets/themes/images/173010352259.png",
+      "collections": 0,
+      "link": "yenibet.ortak.me"
+    },
+    {
+      "name": "sohobet",
+      "logo": "https://res.ortak1.me/assets/themes/images/172381178555.jpg",
+      "collections": 2,
+      "link": "sohobetortak.com"
+    },
+    {
+      "name": "avvabet",
+      "logo": "https://res.ortak1.me/assets/themes/images/172381403946.png",
+      "collections": 1,
+      "link": "avvatoken.com"
+    },
+    {
+      "name": "tuabet",
+      "logo": "https://res.ortak1.me/assets/themes/images/172672866942.png",
+      "collections": 0,
+      "link": "tuabet.ortak.me"
+    },
+    {
+      "name": "talisbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/172465874737.png",
+      "collections": 1,
+      "link": "talisnft.com"
+    },
+    {
+      "name": "Vegasnova",
+      "logo": "https://res.ortak1.me/assets/themes/images/1741784709666.png",
+      "collections": 0,
+      "link": "vegasnova.ortak.me"
+    },
+    {
+      "name": "ardabet342",
+      "logo": "https://res.ortak1.me/assets/themes/images/1741764092665.png",
+      "collections": 0,
+      "link": "ardabet342.ortak.me"
+    },
+    {
+      "name": "Dinamitbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1741699729664.png",
+      "collections": 0,
+      "link": "dinamitbet.ortak.me"
+    },
+    {
+      "name": "Winzybet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1741686027663.png",
+      "collections": 0,
+      "link": "winzybet.ortak.me"
+    },
+    {
+      "name": "Playmen",
+      "logo": "https://res.ortak1.me/assets/themes/images/1741609547662.png",
+      "collections": 0,
+      "link": "playmen.ortak.me"
+    },
+    {
+      "name": "Mislikazan",
+      "logo": "https://res.ortak1.me/assets/themes/images/1741607416661.png",
+      "collections": 0,
+      "link": "mislikazan100.ortak.me"
+    },
+    {
+      "name": "Pradabet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1741599977660.png",
+      "collections": 0,
+      "link": "pradabet.ortak.me"
+    },
+    {
+      "name": "Curcunabet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1741599850659.png",
+      "collections": 0,
+      "link": "curcunabet.ortak.me"
+    },
+    {
+      "name": "Winon",
+      "logo": "https://res.ortak1.me/assets/themes/images/1741341088658.png",
+      "collections": 0,
+      "link": "winon.ortak.me"
+    },
+    {
+      "name": "Betfal",
+      "logo": "https://res.ortak1.me/assets/themes/images/1741254514657.png",
+      "collections": 0,
+      "link": "betfal.ortak.me"
+    },
+    {
+      "name": "Betbull77",
+      "logo": "https://res.ortak1.me/assets/themes/images/1741253736656.png",
+      "collections": 0,
+      "link": "betbull77.ortak.me"
+    },
+    {
+      "name": "Teketekbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1741253542655.png",
+      "collections": 1,
+      "link": "teketekbet.ortak.me"
+    },
+    {
+      "name": "Ruabet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1741245529654.png",
+      "collections": 0,
+      "link": "ruabet.ortak.me"
+    },
+    {
+      "name": "prime",
+      "logo": "https://res.ortak1.me/assets/themes/images/1741200538653.png",
+      "collections": 0,
+      "link": "prime.ortak.me"
+    },
+    {
+      "name": "elite",
+      "logo": "https://res.ortak1.me/assets/themes/images/1741200358652.png",
+      "collections": 0,
+      "link": "elite.ortak.me"
+    },
+    {
+      "name": "Betofsayt",
+      "logo": "https://res.ortak1.me/assets/themes/images/1741181625651.png",
+      "collections": 0,
+      "link": "betofsayt.ortak.me"
+    },
+    {
+      "name": "Vipgames",
+      "logo": "https://res.ortak1.me/assets/themes/images/1741178746650.png",
+      "collections": 0,
+      "link": "vipgames.ortak.me"
+    },
+    {
+      "name": "Betnoel",
+      "logo": "https://res.ortak1.me/assets/themes/images/1741258277649.png",
+      "collections": 1,
+      "link": "betnoelnft.ortak.me"
+    },
+    {
+      "name": "Bambaslot",
+      "logo": "https://res.ortak1.me/assets/themes/images/1741091230648.png",
+      "collections": 0,
+      "link": "bambaslot.ortak.me"
+    },
+    {
+      "name": "24games",
+      "logo": "https://res.ortak1.me/assets/themes/images/1741006824647.png",
+      "collections": 0,
+      "link": "24games.ortak.me"
+    },
+    {
+      "name": "Takvimbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1741001897646.png",
+      "collections": 1,
+      "link": "takvimbet.ortak.me"
+    },
+    {
+      "name": "luluslot666",
+      "logo": "https://res.ortak1.me/assets/themes/images/1740731178645.png",
+      "collections": 0,
+      "link": "luluslot666.ortak.me"
+    },
+    {
+      "name": "Merc777",
+      "logo": "https://res.ortak1.me/assets/themes/images/1740464052644.png",
+      "collections": 0,
+      "link": "merc777.ortak.me"
+    },
+    {
+      "name": "Stakebet1x2",
+      "logo": "https://res.ortak1.me/assets/themes/images/1740392340643.png",
+      "collections": 0,
+      "link": "stakebet.ortak.me"
+    },
+    {
+      "name": "Betify247",
+      "logo": "https://res.ortak1.me/assets/themes/images/1740144335642.png",
+      "collections": 0,
+      "link": "betify247.ortak.me"
+    },
+    {
+      "name": "Renbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1740047586641.png",
+      "collections": 1,
+      "link": "renbet.ortak.me"
+    },
+    {
+      "name": "Kadibet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1739965126640.png",
+      "collections": 0,
+      "link": "kadibet.ortak.me"
+    },
+    {
+      "name": "Casinobu",
+      "logo": "https://res.ortak1.me/assets/themes/images/1739963186639.png",
+      "collections": 0,
+      "link": "casinobu.ortak.me"
+    },
+    {
+      "name": "Casilove",
+      "logo": "https://res.ortak1.me/assets/themes/images/1739959597638.png",
+      "collections": 0,
+      "link": "casilove.ortak.me"
+    },
+    {
+      "name": "Istinyecasino",
+      "logo": "https://res.ortak1.me/assets/themes/images/1739953797637.png",
+      "collections": 0,
+      "link": "istinyecasino.ortak.me"
+    },
+    {
+      "name": "Cashanem",
+      "logo": "https://res.ortak1.me/assets/themes/images/1739796860636.png",
+      "collections": 0,
+      "link": "cashanem.ortak.me"
+    },
+    {
+      "name": "Scorebet360",
+      "logo": "https://res.ortak1.me/assets/themes/images/1739785824635.png",
+      "collections": 0,
+      "link": "scorebet360.ortak.me"
+    },
+    {
+      "name": "jamobet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1739777839634.png",
+      "collections": 0,
+      "link": "jamobet.ortak.me"
+    },
+    {
+      "name": "Betyap",
+      "logo": "https://res.ortak1.me/assets/themes/images/1739448762633.png",
+      "collections": 0,
+      "link": "betyap.ortak.me"
+    },
+    {
+      "name": "Betsilin",
+      "logo": "https://res.ortak1.me/assets/themes/images/1739448544632.gif",
+      "collections": 0,
+      "link": "betsilin.ortak.me"
+    },
+    {
+      "name": "Ikimisli",
+      "logo": "https://res.ortak1.me/assets/themes/images/1739446466627.png",
+      "collections": 1,
+      "link": "ikimisli.ortak.me"
+    },
+    {
+      "name": "Flappy Bet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1739434803622.png",
+      "collections": 0,
+      "link": "flappybet.ortak.me"
+    },
+    {
+      "name": "Vertucasino",
+      "logo": "https://res.ortak1.me/assets/themes/images/1739349560621.png",
+      "collections": 0,
+      "link": "vertucasino.ortak.me"
+    },
+    {
+      "name": "Volvoxbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1739273682619.gif",
+      "collections": 0,
+      "link": "volvoxbet341.ortak.me"
+    },
+    {
+      "name": "Makigame",
+      "logo": "https://res.ortak1.me/assets/themes/images/1739262690618.png",
+      "collections": 0,
+      "link": "makigame.ortak.me"
+    },
+    {
+      "name": "Royssbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1739194703617.png",
+      "collections": 0,
+      "link": "royssbet.ortak.me"
+    },
+    {
+      "name": "Fazi",
+      "logo": "https://res.ortak1.me/assets/themes/images/1739186729616.png",
+      "collections": 0,
+      "link": "fazi.ortak.me"
+    },
+    {
+      "name": "Betriyal",
+      "logo": "https://res.ortak1.me/assets/themes/images/1739174038615.png",
+      "collections": 0,
+      "link": "betriyal360.ortak.me"
+    },
+    {
+      "name": "Macaw",
+      "logo": "https://res.ortak1.me/assets/themes/images/1738922104614.png",
+      "collections": 0,
+      "link": "macawgaming.ortak.me"
+    },
+    {
+      "name": "Betxline",
+      "logo": "https://res.ortak1.me/assets/themes/images/1738912167613.png",
+      "collections": 0,
+      "link": "betxline.ortak.me"
+    },
+    {
+      "name": "Avaxbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1738912021612.png",
+      "collections": 0,
+      "link": "avaxbet.ortak.me"
+    },
+    {
+      "name": "Betazn",
+      "logo": "https://res.ortak1.me/assets/themes/images/1738911931611.png",
+      "collections": 0,
+      "link": "betazn.ortak.me"
+    },
+    {
+      "name": "Betfero",
+      "logo": "https://res.ortak1.me/assets/themes/images/1738848282610.png",
+      "collections": 0,
+      "link": "betfero.ortak.me"
+    },
+    {
+      "name": "PoggiPlay",
+      "logo": "https://res.ortak1.me/assets/themes/images/1738847396609.png",
+      "collections": 0,
+      "link": "poggiplay.ortak.me"
+    },
+    {
+      "name": "Betsa",
+      "logo": "https://res.ortak1.me/assets/themes/images/1738846477608.png",
+      "collections": 0,
+      "link": "betsa112.ortak.me"
+    },
+    {
+      "name": "Kupawin",
+      "logo": "https://res.ortak1.me/assets/themes/images/1738841368607.png",
+      "collections": 0,
+      "link": "kupawin87.ortak.me"
+    },
+    {
+      "name": "Playsala",
+      "logo": "https://res.ortak1.me/assets/themes/images/1739257025606.png",
+      "collections": 0,
+      "link": "playsala.ortak.me"
+    },
+    {
+      "name": "Lavivabet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1738827103605.png",
+      "collections": 0,
+      "link": "lavivabet.ortak.me"
+    },
+    {
+      "name": "Mandarinbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1738763582604.png",
+      "collections": 0,
+      "link": "mandarinbet101.ortak.me"
+    },
+    {
+      "name": "Capibet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1738759021603.png",
+      "collections": 0,
+      "link": "capibet.ortak.me"
+    },
+    {
+      "name": "Ecmoney",
+      "logo": "https://res.ortak1.me/assets/themes/images/1738758866602.png",
+      "collections": 0,
+      "link": "ecmoney.ortak.me"
+    },
+    {
+      "name": "Betprime",
+      "logo": "https://res.ortak1.me/assets/themes/images/1738758679601.png",
+      "collections": 0,
+      "link": "betprimevip.ortak.me"
+    },
+    {
+      "name": "Starwin",
+      "logo": "https://res.ortak1.me/assets/themes/images/1738758344600.png",
+      "collections": 0,
+      "link": "starwin.ortak.me"
+    },
+    {
+      "name": "Evbahis",
+      "logo": "https://res.ortak1.me/assets/themes/images/1738756386599.png",
+      "collections": 0,
+      "link": "evbahis.ortak.me"
+    },
+    {
+      "name": "Masterbetting",
+      "logo": "https://res.ortak1.me/assets/themes/images/1738756076598.png",
+      "collections": 0,
+      "link": "masterbetting.ortak.me"
+    },
+    {
+      "name": "Betsobet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1738764575597.png",
+      "collections": 0,
+      "link": "betsobet.ortak.me"
+    },
+    {
+      "name": "Goldbetting",
+      "logo": "https://res.ortak1.me/assets/themes/images/1738752839596.png",
+      "collections": 0,
+      "link": "goldbetting.ortak.me"
+    },
+    {
+      "name": "Onlybet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1738749922587.png",
+      "collections": 0,
+      "link": "onlybet1.ortak.me"
+    },
+    {
+      "name": "Hedefbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/",
+      "collections": 0,
+      "link": "hedefbet.ortak.me"
+    },
+    {
+      "name": "Nightwin",
+      "logo": "https://res.ortak1.me/assets/themes/images/1738740903583.png",
+      "collections": 0,
+      "link": "nightwin.ortak.me"
+    },
+    {
+      "name": "Betrhahen",
+      "logo": "https://res.ortak1.me/assets/themes/images/1738740265582.png",
+      "collections": 0,
+      "link": "betrahen.ortak.me"
+    },
+    {
+      "name": "Chamadaslot",
+      "logo": "https://res.ortak1.me/assets/themes/images/1738739493581.png",
+      "collections": 0,
+      "link": "chamadaslot.ortak.me"
+    },
+    {
+      "name": "Bumwin",
+      "logo": "https://res.ortak1.me/assets/themes/images/1738665730579.png",
+      "collections": 0,
+      "link": "bumwin.ortak.me"
+    },
+    {
+      "name": "10x10",
+      "logo": "https://res.ortak1.me/assets/themes/images/",
+      "collections": 0,
+      "link": "10x10bet.ortak.me"
+    },
+    {
+      "name": "Millibahis",
+      "logo": "https://res.ortak1.me/assets/themes/images/1738593486577.png",
+      "collections": 0,
+      "link": "millibahis.ortak.me"
+    },
+    {
+      "name": "Maxpari",
+      "logo": "https://res.ortak1.me/assets/themes/images/1738587607576.png",
+      "collections": 0,
+      "link": "maxpari.ortak.me"
+    },
+    {
+      "name": "Bitlemons",
+      "logo": "https://res.ortak1.me/assets/themes/images/1738326682572.png",
+      "collections": 0,
+      "link": "bitlemons.ortak.me"
+    },
+    {
+      "name": "Munchbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1738322575571.png",
+      "collections": 0,
+      "link": "munchbet20.ortak.me"
+    },
+    {
+      "name": "Bellagiocasino",
+      "logo": "https://res.ortak1.me/assets/themes/images/1738320515570.png",
+      "collections": 0,
+      "link": "bellagiocasino.ortak.me"
+    },
+    {
+      "name": "Hiltonbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/",
+      "collections": 0,
+      "link": "hiltonbet.ortak.me"
+    },
+    {
+      "name": "Casinoroyal",
+      "logo": "https://res.ortak1.me/assets/themes/images/1738318391568.png",
+      "collections": 0,
+      "link": "casinoroyal.ortak.me"
+    },
+    {
+      "name": "Vipslot",
+      "logo": "https://res.ortak1.me/assets/themes/images/1738312671567.png",
+      "collections": 0,
+      "link": "vipslot.ortak.me"
+    },
+    {
+      "name": "Betiqos",
+      "logo": "https://res.ortak1.me/assets/themes/images/1738249977566.png",
+      "collections": 0,
+      "link": "betiqos.ortak.me"
+    },
+    {
+      "name": "Prizmabet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1738236885565.jpg",
+      "collections": 0,
+      "link": "prizmabet.ortak.me"
+    },
+    {
+      "name": "Hizlibahes",
+      "logo": "https://res.ortak1.me/assets/themes/images/1738236153564.png",
+      "collections": 0,
+      "link": "hizlibahis.ortak.me"
+    },
+    {
+      "name": "Betosfer",
+      "logo": "https://res.ortak1.me/assets/themes/images/1738235966563.png",
+      "collections": 0,
+      "link": "betosfer.ortak.me"
+    },
+    {
+      "name": "Royalbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/ortak.svg",
+      "collections": 1,
+      "link": "royalbet.ortak.me"
+    },
+    {
+      "name": "Sovabet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1738157013561.png",
+      "collections": 0,
+      "link": "sovabet.ortak.me"
+    },
+    {
+      "name": "Pashagaming",
+      "logo": "https://res.ortak1.me/assets/themes/images/1738156510560.png",
+      "collections": 1,
+      "link": "pashagaming.ortak.me"
+    },
+    {
+      "name": "Palacebet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1738156392559.png",
+      "collections": 0,
+      "link": "palacebet.ortak.me"
+    },
+    {
+      "name": "BET303",
+      "logo": "https://res.ortak1.me/assets/themes/images/1738155790558.png",
+      "collections": 0,
+      "link": "bet303.ortak.me"
+    },
+    {
+      "name": "Yaltabet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1738154059557.png",
+      "collections": 1,
+      "link": "yaltabet.ortak.me"
+    },
+    {
+      "name": "Tigrabet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1738151628556.png",
+      "collections": 0,
+      "link": "tigra.ortak.me"
+    },
+    {
+      "name": "Rulobet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737983512553.png",
+      "collections": 0,
+      "link": "rulobet.ortak.me"
+    },
+    {
+      "name": "Betmiz",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737983325552.png",
+      "collections": 0,
+      "link": "bm.ortak.me"
+    },
+    {
+      "name": "Turkarena",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737982881551.jpg",
+      "collections": 0,
+      "link": "turkarena.ortak.me"
+    },
+    {
+      "name": "Antikbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737981663550.png",
+      "collections": 0,
+      "link": "antikbet.ortak.me"
+    },
+    {
+      "name": "Foratbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/ortak.svg",
+      "collections": 0,
+      "link": "foratbet.ortak.me"
+    },
+    {
+      "name": "Alfabahis",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737981166548.png",
+      "collections": 0,
+      "link": "alfabahis.ortak.me"
+    },
+    {
+      "name": "betsrolex",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737979559547.png",
+      "collections": 0,
+      "link": "betsrolex.ortak.me"
+    },
+    {
+      "name": "Parsball",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737711143545.png",
+      "collections": 0,
+      "link": "parsball.ortak.me"
+    },
+    {
+      "name": "meritqueen",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737626910544.png",
+      "collections": 0,
+      "link": "meritqueen.ortak.me"
+    },
+    {
+      "name": "winxbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737626867543.png",
+      "collections": 0,
+      "link": "winxbet.ortak.me"
+    },
+    {
+      "name": "gigawin",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737626832542.png",
+      "collections": 0,
+      "link": "gigawin.ortak.me"
+    },
+    {
+      "name": "dazzlewin",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737626786541.png",
+      "collections": 0,
+      "link": "dazzlewin.ortak.me"
+    },
+    {
+      "name": "aresbet.ortak.me",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737626570540.png",
+      "collections": 0,
+      "link": "aresbet.ortak.me"
+    },
+    {
+      "name": "Lorabet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737626447539.png",
+      "collections": 0,
+      "link": "lorabet.ortak.me"
+    },
+    {
+      "name": "tarabet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737626277538.png",
+      "collections": 0,
+      "link": "tarabet.ortak.me"
+    },
+    {
+      "name": "Larabahis",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737626203537.png",
+      "collections": 0,
+      "link": "larabahis.ortak.me"
+    },
+    {
+      "name": "limrabet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737626153536.png",
+      "collections": 0,
+      "link": "limrabet.ortak.me"
+    },
+    {
+      "name": "Mahbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737626106535.png",
+      "collections": 0,
+      "link": "mahbet.ortak.me"
+    },
+    {
+      "name": "betcompany",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737625940534.png",
+      "collections": 0,
+      "link": "betcompany.ortak.me"
+    },
+    {
+      "name": "Aspercasino",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737625862533.png",
+      "collections": 0,
+      "link": "aspercasino.ortak.me"
+    },
+    {
+      "name": "gobahis",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737625811532.png",
+      "collections": 0,
+      "link": "gobahis.ortak.me"
+    },
+    {
+      "name": "sesbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737625733531.png",
+      "collections": 0,
+      "link": "sesbet.ortak.me"
+    },
+    {
+      "name": "Izzabahis",
+      "logo": "https://res.ortak1.me/assets/themes/images/1738825442530.png",
+      "collections": 0,
+      "link": "izzabahis.ortak.me"
+    },
+    {
+      "name": "fokus",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737625453529.png",
+      "collections": 0,
+      "link": "fokus.ortak.me"
+    },
+    {
+      "name": "Adax",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737625415528.png",
+      "collections": 0,
+      "link": "adax.ortak.me"
+    },
+    {
+      "name": "betnano",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737625264526.png",
+      "collections": 1,
+      "link": "betnano.ortak.me"
+    },
+    {
+      "name": "altincasino",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737625203525.png",
+      "collections": 0,
+      "link": "altincasino.ortak.me"
+    },
+    {
+      "name": "redbahis",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737625169524.png",
+      "collections": 0,
+      "link": "redbahis.ortak.me"
+    },
+    {
+      "name": "bahislion",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737624920523.png",
+      "collections": 0,
+      "link": "bahislion.ortak.me"
+    },
+    {
+      "name": "bahis1000",
+      "logo": "https://res.ortak1.me/assets/themes/images/1738824840522.gif",
+      "collections": 1,
+      "link": "bahis1000.ortak.me"
+    },
+    {
+      "name": "betpara",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737624844521.png",
+      "collections": 0,
+      "link": "betpara.ortak.me"
+    },
+    {
+      "name": "casival",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737624814520.png",
+      "collections": 0,
+      "link": "casival.ortak.me"
+    },
+    {
+      "name": "Bahiscasino",
+      "logo": "https://res.ortak1.me/assets/themes/images/1738824554519.png",
+      "collections": 0,
+      "link": "bahiscasino.ortak.me"
+    },
+    {
+      "name": "harbibahis",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737624731518.png",
+      "collections": 0,
+      "link": "harbibahis.ortak.me"
+    },
+    {
+      "name": "lujocasino",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737624695517.png",
+      "collections": 0,
+      "link": "lujocasino.ortak.me"
+    },
+    {
+      "name": "bahsegir",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737624655516.png",
+      "collections": 0,
+      "link": "bahsegir.ortak.me"
+    },
+    {
+      "name": "Mrcasino",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737624599515.png",
+      "collections": 0,
+      "link": "mrcasino.ortak.me"
+    },
+    {
+      "name": "Megabet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737624435513.png",
+      "collections": 0,
+      "link": "megabet.ortak.me"
+    },
+    {
+      "name": "bet251",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737618261512.png",
+      "collections": 0,
+      "link": "bet251.ortak.me"
+    },
+    {
+      "name": "nftcrowncityplay",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737618189510.png",
+      "collections": 0,
+      "link": "nftcrowncityplay.ortak.me"
+    },
+    {
+      "name": "sorti365",
+      "logo": "https://res.ortak1.me/assets/themes/images/1738840604509.png",
+      "collections": 0,
+      "link": "sorti365.ortak.me"
+    },
+    {
+      "name": "stormbets",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737617937506.png",
+      "collections": 0,
+      "link": "stormbets.ortak.me"
+    },
+    {
+      "name": "beterix",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737617834505.png",
+      "collections": 0,
+      "link": "beterix.ortak.me"
+    },
+    {
+      "name": "maxibet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737536000504.png",
+      "collections": 1,
+      "link": "maxibet.ortak.me"
+    },
+    {
+      "name": "promo",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737361937503.png",
+      "collections": 0,
+      "link": "promo.ortak.me"
+    },
+    {
+      "name": "betplatinum",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737217371501.png",
+      "collections": 0,
+      "link": "betplatinum.ortak.me"
+    },
+    {
+      "name": "orisbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/32132132565.png",
+      "collections": 0,
+      "link": "orisbet.ortak.me"
+    },
+    {
+      "name": "altaybet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737217068499.png",
+      "collections": 0,
+      "link": "altaybet.ortak.me"
+    },
+    {
+      "name": "kargabet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737216999498.png",
+      "collections": 0,
+      "link": "kargabet.ortak.me"
+    },
+    {
+      "name": "narubet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737216830497.png",
+      "collections": 0,
+      "link": "narubet.ortak.me"
+    },
+    {
+      "name": "bayconticasino",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737216774496.png",
+      "collections": 0,
+      "link": "bayconticasino100.ortak.me"
+    },
+    {
+      "name": "moskobet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737216624495.png",
+      "collections": 0,
+      "link": "moskobet.ortak.me"
+    },
+    {
+      "name": "betlivo",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737216478494.png",
+      "collections": 0,
+      "link": "betlivo.ortak.me"
+    },
+    {
+      "name": "konfambet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737143197493.png",
+      "collections": 0,
+      "link": "konfambet.ortak.me"
+    },
+    {
+      "name": "betforward",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737143099492.png",
+      "collections": 0,
+      "link": "betforward.ortak.me"
+    },
+    {
+      "name": "ditobet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737142994491.png",
+      "collections": 0,
+      "link": "ditobet.ortak.me"
+    },
+    {
+      "name": "betbox",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737128557489.png",
+      "collections": 1,
+      "link": "betbox.ortak.me"
+    },
+    {
+      "name": "whiterabbit",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737128473488.png",
+      "collections": 0,
+      "link": "whiterabbit.ortak.me"
+    },
+    {
+      "name": "amkbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737128233486.png",
+      "collections": 0,
+      "link": "amkbet.ortak.me"
+    },
+    {
+      "name": "Alphabet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737128180485.png",
+      "collections": 0,
+      "link": "alphabet.ortak.me"
+    },
+    {
+      "name": "10xvb",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737127943484.png",
+      "collections": 0,
+      "link": "10xvb.ortak.me"
+    },
+    {
+      "name": "moyobet",
+      "logo": "https://res.ortak1.me/assets/themes/images/ortak.svg",
+      "collections": 0,
+      "link": "moyobet.ortak.me"
+    },
+    {
+      "name": "rotabet",
+      "logo": "https://res.ortak1.me/assets/themes/images/ortak.svg",
+      "collections": 0,
+      "link": "rotabet.ortak.me"
+    },
+    {
+      "name": "nesinecasino",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737114166480.png",
+      "collections": 0,
+      "link": "nesinecasino.ortak.me"
+    },
+    {
+      "name": "betrein",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737113878479.png",
+      "collections": 0,
+      "link": "betrein.ortak.me"
+    },
+    {
+      "name": "betplay",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737103996478.png",
+      "collections": 0,
+      "link": "betplay.ortak.me"
+    },
+    {
+      "name": "1favorisen",
+      "logo": "https://res.ortak1.me/assets/themes/images/1738761090476.png",
+      "collections": 0,
+      "link": "1favorisen.ortak.me"
+    },
+    {
+      "name": "Wwin",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737103155474.png",
+      "collections": 0,
+      "link": "wwin.ortak.me"
+    },
+    {
+      "name": "Lotobet",
+      "logo": "https://res.ortak1.me/assets/themes/images/ortak.svg",
+      "collections": 0,
+      "link": "lotobet.ortak.me"
+    },
+    {
+      "name": "Admiralcasino",
+      "logo": "https://res.ortak1.me/assets/themes/images/ortak.svg",
+      "collections": 0,
+      "link": "admiralcasino.ortak.me"
+    },
+    {
+      "name": "Betchrome",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737102976470.png",
+      "collections": 0,
+      "link": "betchrome.ortak.me"
+    },
+    {
+      "name": "hertabet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737102927469.png",
+      "collections": 0,
+      "link": "hertabet.ortak.me"
+    },
+    {
+      "name": "run4bets",
+      "logo": "https://res.ortak1.me/assets/themes/images/ortak.svg",
+      "collections": 0,
+      "link": "run4bets.ortak.me"
+    },
+    {
+      "name": "Betoonga",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737102755467.png",
+      "collections": 0,
+      "link": "betoonga.ortak.me"
+    },
+    {
+      "name": "ladesbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1738760864466.png",
+      "collections": 1,
+      "link": "ladesbet.ortak.me"
+    },
+    {
+      "name": "Bcrazy",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737102648465.jpg",
+      "collections": 1,
+      "link": "bcrazy.ortak.me"
+    },
+    {
+      "name": "joybet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737102595464.png",
+      "collections": 0,
+      "link": "joybet.ortak.me"
+    },
+    {
+      "name": "betparex",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737102524463.png",
+      "collections": 0,
+      "link": "betparex.ortak.me"
+    },
+    {
+      "name": "Newcratos",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737102457462.png",
+      "collections": 0,
+      "link": "newcratos.ortak.me"
+    },
+    {
+      "name": "Betanka",
+      "logo": "https://res.ortak1.me/assets/themes/images/ortak.svg",
+      "collections": 0,
+      "link": "betanka.ortak.me"
+    },
+    {
+      "name": "grandbetting",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737102093460.png",
+      "collections": 0,
+      "link": "grandbetting.ortak.me"
+    },
+    {
+      "name": "kifbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1738841753459.png",
+      "collections": 0,
+      "link": "kifbet.ortak.me"
+    },
+    {
+      "name": "Zerabet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737101973458.png",
+      "collections": 0,
+      "link": "zerabet.ortak.me"
+    },
+    {
+      "name": "freebetp",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737101914457.png",
+      "collections": 0,
+      "link": "freebet.ortak.me"
+    },
+    {
+      "name": "Betstrong",
+      "logo": "https://res.ortak1.me/assets/themes/images/ortak.svg",
+      "collections": 0,
+      "link": "betstrong.ortak.me"
+    },
+    {
+      "name": "vivacasinobet",
+      "logo": "https://res.ortak1.me/assets/themes/images/ortak.svg",
+      "collections": 0,
+      "link": "vivacasinobet.ortak.me"
+    },
+    {
+      "name": "Betaverse",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737101668452.png",
+      "collections": 0,
+      "link": "betaverse.ortak.me"
+    },
+    {
+      "name": "stilbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1738761510451.png",
+      "collections": 1,
+      "link": "stilbet.ortak.me"
+    },
+    {
+      "name": "Southbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737101156450.png",
+      "collections": 0,
+      "link": "southbet.ortak.me"
+    },
+    {
+      "name": "Betcool",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737101109449.png",
+      "collections": 0,
+      "link": "betcool.ortak.me"
+    },
+    {
+      "name": "Youcas",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737101027448.png",
+      "collections": 0,
+      "link": "youcas.ortak.me"
+    },
+    {
+      "name": "Huhubet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737100973447.png",
+      "collections": 0,
+      "link": "huhubet.ortak.me"
+    },
+    {
+      "name": "betasus",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737100853446.png",
+      "collections": 0,
+      "link": "betasus.ortak.me"
+    },
+    {
+      "name": "sonbahis",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737100810445.png",
+      "collections": 0,
+      "link": "sonbahis.ortak.me"
+    },
+    {
+      "name": "casinomilyon",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737100744444.png",
+      "collections": 0,
+      "link": "casinomilyon.ortak.me"
+    },
+    {
+      "name": "Luxxbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737100691443.png",
+      "collections": 0,
+      "link": "luxxbet.ortak.me"
+    },
+    {
+      "name": "ggl",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737100655442.png",
+      "collections": 0,
+      "link": "ggl.ortak.me"
+    },
+    {
+      "name": "Newammo",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737100628441.png",
+      "collections": 0,
+      "link": "newammo.ortak.me"
+    },
+    {
+      "name": "stonebahis",
+      "logo": "https://res.ortak1.me/assets/themes/images/1738840846440.png",
+      "collections": 0,
+      "link": "stonebahis.ortak.me"
+    },
+    {
+      "name": "Casinonef",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737100547438.png",
+      "collections": 0,
+      "link": "casinonef.ortak.me"
+    },
+    {
+      "name": "betnego",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737100466437.png",
+      "collections": 0,
+      "link": "betnego.ortak.me"
+    },
+    {
+      "name": "roketbahis",
+      "logo": "https://res.ortak1.me/assets/themes/images/1738826996436.png",
+      "collections": 0,
+      "link": "roketbahis.ortak.me"
+    },
+    {
+      "name": "bugibet365",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737100361435.png",
+      "collections": 0,
+      "link": "bugibet365.ortak.me"
+    },
+    {
+      "name": "antbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1737100186434.png",
+      "collections": 0,
+      "link": "antbet.ortak.me"
+    },
+    {
+      "name": "Betgray",
+      "logo": "https://res.ortak1.me/assets/themes/images/image-20250116-051807.png",
+      "collections": 2,
+      "link": "betgray.ortak.me"
+    },
+    {
+      "name": "Nisanbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736950866432.png",
+      "collections": 0,
+      "link": "nisanbet.ortak.me"
+    },
+    {
+      "name": "Pekinbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736949033431.png",
+      "collections": 0,
+      "link": "pekinbet.ortak.me"
+    },
+    {
+      "name": "Sbetin",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736948983430.png",
+      "collections": 0,
+      "link": "sbetin.ortak.me"
+    },
+    {
+      "name": "Betorro",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736948943429.png",
+      "collections": 0,
+      "link": "betorro.ortak.me"
+    },
+    {
+      "name": "Jolibet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736948909428.png",
+      "collections": 0,
+      "link": "jolibet.ortak.me"
+    },
+    {
+      "name": "Meybet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736948844427.png",
+      "collections": 0,
+      "link": "meybet.ortak.me"
+    },
+    {
+      "name": "Bahisfair",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736948795426.png",
+      "collections": 0,
+      "link": "bahisfair.ortak.me"
+    },
+    {
+      "name": "Siyahbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736948740425.png",
+      "collections": 0,
+      "link": "siyahbet.ortak.me"
+    },
+    {
+      "name": "Enbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736943990424.png",
+      "collections": 0,
+      "link": "enbet.ortak.me"
+    },
+    {
+      "name": "Betcio",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736943677422.png",
+      "collections": 1,
+      "link": "betcio.ortak.me"
+    },
+    {
+      "name": "Casinobonanza",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736943613421.png",
+      "collections": 0,
+      "link": "casinobonanza.ortak.me"
+    },
+    {
+      "name": "Casinopop",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736943467419.png",
+      "collections": 0,
+      "link": "casinopop.ortak.me"
+    },
+    {
+      "name": "Ruyabet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736943432418.png",
+      "collections": 0,
+      "link": "ruyabet.ortak.me"
+    },
+    {
+      "name": "alobet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736943393417.png",
+      "collections": 0,
+      "link": "alobet.ortak.me"
+    },
+    {
+      "name": "Tambet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736943366416.png",
+      "collections": 0,
+      "link": "tambet.ortak.me"
+    },
+    {
+      "name": "Alvinbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736943193415.png",
+      "collections": 0,
+      "link": "alvinbet.Ortak.me"
+    },
+    {
+      "name": "Milosbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736942312413.png",
+      "collections": 1,
+      "link": "milosbet.ortak.me"
+    },
+    {
+      "name": "Betvoy",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736942220412.png",
+      "collections": 0,
+      "link": "betvoy.ortak.me"
+    },
+    {
+      "name": "Kavabet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736942179411.png",
+      "collections": 0,
+      "link": "kavabet.ortak.me"
+    },
+    {
+      "name": 747,
+      "logo": "https://res.ortak1.me/assets/themes/images/1736942137410.png",
+      "collections": 0,
+      "link": "747.ortak.me"
+    },
+    {
+      "name": "Enzabet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736941900409.png",
+      "collections": 0,
+      "link": "enzabet.ortak.me"
+    },
+    {
+      "name": "Betrayonvip",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736941786408.png",
+      "collections": 0,
+      "link": "betrayonvip.ortak.me"
+    },
+    {
+      "name": "Extrabet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736941762407.png",
+      "collections": 0,
+      "link": "extrabet.ortak.me"
+    },
+    {
+      "name": "Gazibet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736941715406.png",
+      "collections": 0,
+      "link": "gazibet.ortak.me"
+    },
+    {
+      "name": "Akulabet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736941682405.png",
+      "collections": 0,
+      "link": "akulabet.ortak.me"
+    },
+    {
+      "name": "Medyabahis",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736941625404.png",
+      "collections": 0,
+      "link": "medyabahis.ortak.me"
+    },
+    {
+      "name": "Cashwin",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736941573403.png",
+      "collections": 1,
+      "link": "cashwin.ortak.me"
+    },
+    {
+      "name": "Benebet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736940824401.png",
+      "collections": 0,
+      "link": "benebet.ortak.me"
+    },
+    {
+      "name": "Goldenbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736927510400.png",
+      "collections": 0,
+      "link": "goldenbet.ortak.me"
+    },
+    {
+      "name": "Lirabet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736927465399.png",
+      "collections": 0,
+      "link": "lirabet.ortak.me"
+    },
+    {
+      "name": "Axacasino",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736927356398.png",
+      "collections": 0,
+      "link": "axacasino.ortak.me"
+    },
+    {
+      "name": "Betchain",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736927300397.png",
+      "collections": 0,
+      "link": "showbets.ortak.me"
+    },
+    {
+      "name": "itopyabet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736927261396.png",
+      "collections": 0,
+      "link": "itopyabet.ortak.me"
+    },
+    {
+      "name": "Betlinee",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736927197395.png",
+      "collections": 0,
+      "link": "betlinee.ortak.me"
+    },
+    {
+      "name": "Jugoobet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736927083394.png",
+      "collections": 0,
+      "link": "jugoobet.ortak.me"
+    },
+    {
+      "name": "FatCat",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736927020393.png",
+      "collections": 0,
+      "link": "fatcatpay.io"
+    },
+    {
+      "name": "Betovis",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736926941392.png",
+      "collections": 0,
+      "link": "betovis.ortak.me"
+    },
+    {
+      "name": "Misliwin",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736926903391.png",
+      "collections": 1,
+      "link": "misliwin.ortak.me"
+    },
+    {
+      "name": "Mojobet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736926866390.png",
+      "collections": 0,
+      "link": "mojobet.ortak.me"
+    },
+    {
+      "name": "Loyalbahis",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736926744389.png",
+      "collections": 0,
+      "link": "loyalbahis.ortak.me"
+    },
+    {
+      "name": "Tiflisbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736926723388.png",
+      "collections": 0,
+      "link": "tiflisbet.ortak.me"
+    },
+    {
+      "name": "Piabellacasino",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736926581387.png",
+      "collections": 1,
+      "link": "piabellacasino.ortak.me"
+    },
+    {
+      "name": "Batumslot",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736855438386.png",
+      "collections": 0,
+      "link": "batumslot.ortak.me"
+    },
+    {
+      "name": "Casinomaxroyal",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736855230385.png",
+      "collections": 1,
+      "link": "casinomaxroyal.ortak.me"
+    },
+    {
+      "name": "Levabet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736855162384.png",
+      "collections": 0,
+      "link": "levabet.ortak.me"
+    },
+    {
+      "name": "Betmarino",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736855093383.png",
+      "collections": 1,
+      "link": "betmarino.ortak.me"
+    },
+    {
+      "name": "Betkeko",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736854888382.png",
+      "collections": 0,
+      "link": "betkeko.ortak.me"
+    },
+    {
+      "name": "Sekbahis",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736854744380.png",
+      "collections": 0,
+      "link": "sekbahis.ortak.me"
+    },
+    {
+      "name": "Uduwin",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736854700379.png",
+      "collections": 0,
+      "link": "uduwin.ortak.me"
+    },
+    {
+      "name": "Vegas377",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736854641378.png",
+      "collections": 0,
+      "link": "vegas377.ortak.me"
+    },
+    {
+      "name": "Apostalibre",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736854583377.png",
+      "collections": 0,
+      "link": "apostalibre.ortak.me"
+    },
+    {
+      "name": "Wonderbets",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736854504376.png",
+      "collections": 0,
+      "link": "wonderbets.ortak.me"
+    },
+    {
+      "name": "Didi",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736854433375.png",
+      "collections": 0,
+      "link": "didi.ortak.me"
+    },
+    {
+      "name": "Ganalo",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736854272374.png",
+      "collections": 0,
+      "link": "ganalo.ortak.me"
+    },
+    {
+      "name": "prensbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736854238373.png",
+      "collections": 0,
+      "link": "prensbet.ortak.me"
+    },
+    {
+      "name": "Galabet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736854196372.png",
+      "collections": 1,
+      "link": "galabet.ortak.me"
+    },
+    {
+      "name": "Betzula",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736854076371.png",
+      "collections": 0,
+      "link": "betzula.ortak.me"
+    },
+    {
+      "name": "Betsmona",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736853906370.png",
+      "collections": 0,
+      "link": "betsmona.ortak.me"
+    },
+    {
+      "name": "luizbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736853750368.png",
+      "collections": 0,
+      "link": "luizbet.ortak.me"
+    },
+    {
+      "name": "Flashbett",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736853703367.png",
+      "collections": 0,
+      "link": "flashbett.ortak.me"
+    },
+    {
+      "name": "Lynabet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736853577366.png",
+      "collections": 1,
+      "link": "lynabet.ortak.me"
+    },
+    {
+      "name": "Standardbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736503398364.png",
+      "collections": 0,
+      "link": "standard.ortak.me"
+    },
+    {
+      "name": "Freybet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736493648363.png",
+      "collections": 0,
+      "link": "freybetnft.ortak.me"
+    },
+    {
+      "name": "highstake",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736430345362.png",
+      "collections": 0,
+      "link": "ortak.highstake888.com"
+    },
+    {
+      "name": "vovabets",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736430297361.png",
+      "collections": 0,
+      "link": "vovabets.ortak.me"
+    },
+    {
+      "name": "lakersbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736330410360.png",
+      "collections": 0,
+      "link": "lakersbet20.ortak.me"
+    },
+    {
+      "name": "tutarbu",
+      "logo": "https://res.ortak1.me/assets/themes/images/1735546176355.png",
+      "collections": 0,
+      "link": "tutarbu.ortak.me"
+    },
+    {
+      "name": "betlee101",
+      "logo": "https://res.ortak1.me/assets/themes/images/1735546110354.png",
+      "collections": 0,
+      "link": "betlee101.ortak.me"
+    },
+    {
+      "name": "Diesbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1735546056353.png",
+      "collections": 0,
+      "link": "diesbet.ortak.me"
+    },
+    {
+      "name": "Rafabet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1735546019352.png",
+      "collections": 0,
+      "link": "rafabet107.ortak.me"
+    },
+    {
+      "name": "Opbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1735545984351.png",
+      "collections": 0,
+      "link": "opbet.ortak.me"
+    },
+    {
+      "name": "betmoi",
+      "logo": "https://res.ortak1.me/assets/themes/images/1735545940350.png",
+      "collections": 0,
+      "link": "betmoi.ortak.me"
+    },
+    {
+      "name": "Eyfelcasino",
+      "logo": "https://res.ortak1.me/assets/themes/images/1735545923349.png",
+      "collections": 0,
+      "link": "eyfelcasino.ortak.me"
+    },
+    {
+      "name": "titanyumbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1735545831348.png",
+      "collections": 0,
+      "link": "titanyumbet.ortak.me"
+    },
+    {
+      "name": "Abirbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1735545780347.png",
+      "collections": 0,
+      "link": "abirbet.ortak.me"
+    },
+    {
+      "name": "Pegacasino",
+      "logo": "https://res.ortak1.me/assets/themes/images/1735545707346.png",
+      "collections": 0,
+      "link": "pegacasino620.ortak.me"
+    },
+    {
+      "name": "CasinoEros",
+      "logo": "https://res.ortak1.me/assets/themes/images/1735541666345.png",
+      "collections": 0,
+      "link": "casinoeros.ortak.me"
+    },
+    {
+      "name": "Henribet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1735541383343.png",
+      "collections": 0,
+      "link": "henribet.ortak.me"
+    },
+    {
+      "name": "Pisabet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1735219478341.png",
+      "collections": 0,
+      "link": "pisa.ortak.me"
+    },
+    {
+      "name": "Lambahis",
+      "logo": "https://res.ortak1.me/assets/themes/images/1735200673340.png",
+      "collections": 0,
+      "link": "lambahis.ortak.me"
+    },
+    {
+      "name": "Casinoport",
+      "logo": "https://res.ortak1.me/assets/themes/images/1735200617339.png",
+      "collections": 0,
+      "link": "casinoport.ortak.me"
+    },
+    {
+      "name": "Sal.bet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1735126628338.png",
+      "collections": 0,
+      "link": "sal.ortak.me"
+    },
+    {
+      "name": "betbetgo",
+      "logo": "https://res.ortak1.me/assets/themes/images/1735541887337.png",
+      "collections": 0,
+      "link": "betbetgo.ortak.me"
+    },
+    {
+      "name": "bravobet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1735542429336.png",
+      "collections": 0,
+      "link": "bravobet.ortak.me"
+    },
+    {
+      "name": "Juwaking",
+      "logo": "https://res.ortak1.me/assets/themes/images/1735126420335.png",
+      "collections": 0,
+      "link": "juwaking.ortak.me"
+    },
+    {
+      "name": "Alfabet1",
+      "logo": "https://res.ortak1.me/assets/themes/images/1735209184334.png",
+      "collections": 0,
+      "link": "alfabet1.ortak.me"
+    },
+    {
+      "name": "betwinwins",
+      "logo": "https://res.ortak1.me/assets/themes/images/1735124933333.png",
+      "collections": 0,
+      "link": "betwinwins.ortak.me"
+    },
+    {
+      "name": "Bahister",
+      "logo": "https://res.ortak1.me/assets/themes/images/1735124892332.png",
+      "collections": 0,
+      "link": "bahister.ortak.me"
+    },
+    {
+      "name": "Moronicasino",
+      "logo": "https://res.ortak1.me/assets/themes/images/1735209164331.png",
+      "collections": 0,
+      "link": "moronicasino.ortak.me"
+    },
+    {
+      "name": "betnslot",
+      "logo": "https://res.ortak1.me/assets/themes/images/1735124200329.png",
+      "collections": 0,
+      "link": "betnslot1.ortak.me"
+    },
+    {
+      "name": "Markibahis",
+      "logo": "https://res.ortak1.me/assets/themes/images/1735216197328.png",
+      "collections": 0,
+      "link": "marki.ortak.me"
+    },
+    {
+      "name": "9Ammarji",
+      "logo": "https://res.ortak1.me/assets/themes/images/1734958323327.png",
+      "collections": 0,
+      "link": "9ammarji.ortak.me"
+    },
+    {
+      "name": "Asbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1734958287326.png",
+      "collections": 0,
+      "link": "asbet.ortak.me"
+    },
+    {
+      "name": "mightycrown",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736260972325.png",
+      "collections": 0,
+      "link": "mightycrown.ortak.me"
+    },
+    {
+      "name": "Kwanzabet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1734946166324.png",
+      "collections": 0,
+      "link": "kwanzabet.ortak.me"
+    },
+    {
+      "name": "95asia",
+      "logo": "https://res.ortak1.me/assets/themes/images/1734946063323.png",
+      "collections": 0,
+      "link": "95asia.ortak.me"
+    },
+    {
+      "name": "Martesbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1734011224319.png",
+      "collections": 0,
+      "link": "martesbet.ortak.me"
+    },
+    {
+      "name": "Bigbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1734011159318.png",
+      "collections": 1,
+      "link": "bigbet.ortak.me"
+    },
+    {
+      "name": "casinoroys",
+      "logo": "https://res.ortak1.me/assets/themes/images/1734011073316.png",
+      "collections": 0,
+      "link": "casinoroys.ortak.me"
+    },
+    {
+      "name": "betgol101",
+      "logo": "https://res.ortak1.me/assets/themes/images/1734010953315.png",
+      "collections": 0,
+      "link": "betgol101.ortak.me"
+    },
+    {
+      "name": "Prowetten",
+      "logo": "https://res.ortak1.me/assets/themes/images/1734010876314.png",
+      "collections": 0,
+      "link": "prowetten.ortak.me"
+    },
+    {
+      "name": "Casinoburada",
+      "logo": "https://res.ortak1.me/assets/themes/images/1734010703313.png",
+      "collections": 0,
+      "link": "casinoburada.ortak.me"
+    },
+    {
+      "name": "Lugabet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1734010675312.png",
+      "collections": 0,
+      "link": "lugabet.ortak.me"
+    },
+    {
+      "name": "Betgross",
+      "logo": "https://res.ortak1.me/assets/themes/images/1734010609311.png",
+      "collections": 0,
+      "link": "betgross.ortak.me"
+    },
+    {
+      "name": "JM",
+      "logo": "https://res.ortak1.me/assets/themes/images/1733988259310.png",
+      "collections": 0,
+      "link": "gmortak.me"
+    },
+    {
+      "name": "Reebet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1733986611309.png",
+      "collections": 0,
+      "link": "digibet.ortak.me"
+    },
+    {
+      "name": "Cryptogcity",
+      "logo": "https://res.ortak1.me/assets/themes/images/1734335593308.png",
+      "collections": 0,
+      "link": "cryptogcity.ortak.me"
+    },
+    {
+      "name": "Livebahis",
+      "logo": "https://res.ortak1.me/assets/themes/images/1733488072307.png",
+      "collections": 0,
+      "link": "livebahis.ortak.me"
+    },
+    {
+      "name": "Gambelcity",
+      "logo": "https://res.ortak1.me/assets/themes/images/1733303267306.png",
+      "collections": 0,
+      "link": "gamblecity.ortak.me"
+    },
+    {
+      "name": "Betend",
+      "logo": "https://res.ortak1.me/assets/themes/images/1734335699304.png",
+      "collections": 0,
+      "link": "betend.ortak.me"
+    },
+    {
+      "name": "Iddaci",
+      "logo": "https://res.ortak1.me/assets/themes/images/1733487953303.png",
+      "collections": 2,
+      "link": "iddacinft.ortak.me"
+    },
+    {
+      "name": "Milyoner",
+      "logo": "https://res.ortak1.me/assets/themes/images/1733292191302.png",
+      "collections": 2,
+      "link": "milyonernft.ortak.me"
+    },
+    {
+      "name": "Golegol",
+      "logo": "https://res.ortak1.me/assets/themes/images/1733131904300.png",
+      "collections": 0,
+      "link": "golegol.ortak.me"
+    },
+    {
+      "name": "Gamabet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1733131662299.png",
+      "collections": 0,
+      "link": "gamabet.ortak.me"
+    },
+    {
+      "name": "Lagoncasino",
+      "logo": "https://res.ortak1.me/assets/themes/images/1733296471298.png",
+      "collections": 0,
+      "link": "lagoncasino.ortak.me"
+    },
+    {
+      "name": "Cinkobet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1732520920297.png",
+      "collections": 0,
+      "link": "cinkobet.ortak.me"
+    },
+    {
+      "name": "Gelcasino",
+      "logo": "https://res.ortak1.me/assets/themes/images/1732520836296.png",
+      "collections": 0,
+      "link": "gelcasino100.ortak.me"
+    },
+    {
+      "name": "Gobet216",
+      "logo": "https://res.ortak1.me/assets/themes/images/1732520745295.png",
+      "collections": 0,
+      "link": "gobet216.ortak.me"
+    },
+    {
+      "name": "Casinoas",
+      "logo": "https://res.ortak1.me/assets/themes/images/1731998854292.png",
+      "collections": 0,
+      "link": "casinoas.ortak.me"
+    },
+    {
+      "name": "Betvaio",
+      "logo": "https://res.ortak1.me/assets/themes/images/1731652936291.png",
+      "collections": 0,
+      "link": "betvaio.ortak.me"
+    },
+    {
+      "name": "Berrybet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1731652839290.png",
+      "collections": 2,
+      "link": "berrybet.ortak.me"
+    },
+    {
+      "name": "Golbetting",
+      "logo": "https://res.ortak1.me/assets/themes/images/1731652745289.png",
+      "collections": 0,
+      "link": "golbetting.ortak.me"
+    },
+    {
+      "name": "eubahis",
+      "logo": "https://res.ortak1.me/assets/themes/images/1731652589288.png",
+      "collections": 0,
+      "link": "eubahis.ortak.me"
+    },
+    {
+      "name": "koora",
+      "logo": "https://res.ortak1.me/assets/themes/images/1731053262287.png",
+      "collections": 0,
+      "link": "koora.ortak.me"
+    },
+    {
+      "name": "Betzigo",
+      "logo": "https://res.ortak1.me/assets/themes/images/1731053184286.png",
+      "collections": 0,
+      "link": "betzigo.ortak.me"
+    },
+    {
+      "name": "80bet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1731053017285.png",
+      "collections": 0,
+      "link": "80bet.ortak.me"
+    },
+    {
+      "name": "Myhitbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1730906551284.png",
+      "collections": 0,
+      "link": "myhitbet.ortak.me"
+    },
+    {
+      "name": "Objebet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1730906490283.png",
+      "collections": 0,
+      "link": "objebet.ortak.me"
+    },
+    {
+      "name": "Felixbahis",
+      "logo": "https://res.ortak1.me/assets/themes/images/1730906334282.png",
+      "collections": 0,
+      "link": "felixbahis.ortak.me"
+    },
+    {
+      "name": "jascasino",
+      "logo": "https://res.ortak1.me/assets/themes/images/1730354208281.png",
+      "collections": 0,
+      "link": "jascasino.ortak.me"
+    },
+    {
+      "name": "betpark",
+      "logo": "https://res.ortak1.me/assets/themes/images/1730127537280.png",
+      "collections": 0,
+      "link": "betpark.ortak.me"
+    },
+    {
+      "name": "Betfnf",
+      "logo": "https://res.ortak1.me/assets/themes/images/1730108439279.png",
+      "collections": 0,
+      "link": "fnf.ortak.me"
+    },
+    {
+      "name": "lejyonbet251",
+      "logo": "https://res.ortak1.me/assets/themes/images/1730108100278.png",
+      "collections": 0,
+      "link": "lejyonbet251.ortak.me"
+    },
+    {
+      "name": "Rakcha",
+      "logo": "https://res.ortak1.me/assets/themes/images/1730102679277.png",
+      "collections": 0,
+      "link": "rakcha216.ortak.me"
+    },
+    {
+      "name": "luckystakecasino",
+      "logo": "https://res.ortak1.me/assets/themes/images/1730102526276.png",
+      "collections": 0,
+      "link": "luckystakecasino1.ortak.me"
+    },
+    {
+      "name": "Slots999",
+      "logo": "https://res.ortak1.me/assets/themes/images/1730102085275.png",
+      "collections": 0,
+      "link": "slots999.ortak.me"
+    },
+    {
+      "name": "Canbett",
+      "logo": "https://res.ortak1.me/assets/themes/images/1729838804274.png",
+      "collections": 0,
+      "link": "canbett.ortak.me"
+    },
+    {
+      "name": "pns365",
+      "logo": "https://res.ortak1.me/assets/themes/images/1729665545273.png",
+      "collections": 0,
+      "link": "pns365.ortak.me"
+    },
+    {
+      "name": "Casinoziga",
+      "logo": "https://res.ortak1.me/assets/themes/images/1730103398272.png",
+      "collections": 0,
+      "link": "casinoziga.ortak.me"
+    },
+    {
+      "name": "29bet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1729587658271.png",
+      "collections": 0,
+      "link": "29bet.ortak.me"
+    },
+    {
+      "name": "Wins2bet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1729495980270.png",
+      "collections": 0,
+      "link": "wins2bet.ortak.me"
+    },
+    {
+      "name": "casadeapostas",
+      "logo": "https://res.ortak1.me/assets/themes/images/1729495931269.png",
+      "collections": 0,
+      "link": "casadeapostasonline.ortak.me"
+    },
+    {
+      "name": "Wojobet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1729495802268.png",
+      "collections": 0,
+      "link": "wojo.ortak.me"
+    },
+    {
+      "name": "Betaur",
+      "logo": "https://res.ortak1.me/assets/themes/images/1729495731267.png",
+      "collections": 0,
+      "link": "betaur.ortak.me"
+    },
+    {
+      "name": "betmarin",
+      "logo": "https://res.ortak1.me/assets/themes/images/1729494867266.png",
+      "collections": 0,
+      "link": "betmarin111.ortak.me"
+    },
+    {
+      "name": "Betofficenft",
+      "logo": "https://res.ortak1.me/assets/themes/images/1728380576264.png",
+      "collections": 0,
+      "link": "betofficenft.ortak.me"
+    },
+    {
+      "name": "Libertabet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1728380319263.png",
+      "collections": 0,
+      "link": "libertabet.ortak.me"
+    },
+    {
+      "name": "Icebahis",
+      "logo": "https://res.ortak1.me/assets/themes/images/1730107829262.png",
+      "collections": 0,
+      "link": "icebahis1.ortak.me"
+    },
+    {
+      "name": "Unicornbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1728380173261.png",
+      "collections": 0,
+      "link": "unicornbet.ortak.me"
+    },
+    {
+      "name": "Kulvarbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1728380103260.png",
+      "collections": 0,
+      "link": "kulvarbet.ortak.me"
+    },
+    {
+      "name": "Marriotbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1728380060259.png",
+      "collections": 0,
+      "link": "marriottbet.ortak.me"
+    },
+    {
+      "name": "Zio",
+      "logo": "https://res.ortak1.me/assets/themes/images/1728379922258.png",
+      "collections": 0,
+      "link": "zio.ortak.me"
+    },
+    {
+      "name": "Fixwin",
+      "logo": "https://res.ortak1.me/assets/themes/images/1728379873257.png",
+      "collections": 0,
+      "link": "fixwin.ortak.me"
+    },
+    {
+      "name": "Bahix",
+      "logo": "https://res.ortak1.me/assets/themes/images/1728379832256.png",
+      "collections": 0,
+      "link": "bahix.ortak.me"
+    },
+    {
+      "name": "Roxobet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1728379794255.png",
+      "collections": 0,
+      "link": "roxobet.ortak.me"
+    },
+    {
+      "name": "Betloca",
+      "logo": "https://res.ortak1.me/assets/themes/images/1728379748254.png",
+      "collections": 0,
+      "link": "betloca.ortak.me"
+    },
+    {
+      "name": "Saraycasino",
+      "logo": "https://res.ortak1.me/assets/themes/images/1728379640253.png",
+      "collections": 0,
+      "link": "sarayslot.ortak.me"
+    },
+    {
+      "name": "Slotcum",
+      "logo": "https://res.ortak1.me/assets/themes/images/1728367240252.png",
+      "collections": 0,
+      "link": "slotcumnft.com"
+    },
+    {
+      "name": "Munihbahis",
+      "logo": "https://res.ortak1.me/assets/themes/images/1728367161251.png",
+      "collections": 0,
+      "link": "munihbahisnft.com"
+    },
+    {
+      "name": "Realcasino",
+      "logo": "https://res.ortak1.me/assets/themes/images/1727781994248.png",
+      "collections": 0,
+      "link": "realcasino.ortak.me"
+    },
+    {
+      "name": "Josecasino",
+      "logo": "https://res.ortak1.me/assets/themes/images/1727781937247.png",
+      "collections": 0,
+      "link": "josecasino.ortak.me"
+    },
+    {
+      "name": "Monacobet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1727695634245.png",
+      "collections": 0,
+      "link": "monacobet.ortak.me"
+    },
+    {
+      "name": "Casiviva",
+      "logo": "https://res.ortak1.me/assets/themes/images/1727693868244.png",
+      "collections": 0,
+      "link": "casiviva.ortak.me"
+    },
+    {
+      "name": "Blackxbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1727442258243.png",
+      "collections": 0,
+      "link": "blacknft.ortak.me"
+    },
+    {
+      "name": "rottbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1727421877242.png",
+      "collections": 0,
+      "link": "rottbet.ortak.me"
+    },
+    {
+      "name": "royalbetgg",
+      "logo": "https://res.ortak1.me/assets/themes/images/1727421814241.png",
+      "collections": 0,
+      "link": "royalbetgg.ortak.me"
+    },
+    {
+      "name": "Holeyy",
+      "logo": "https://res.ortak1.me/assets/themes/images/1727358083240.png",
+      "collections": 0,
+      "link": "holeyy.ortak.me"
+    },
+    {
+      "name": "Editorbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1727336623238.png",
+      "collections": 0,
+      "link": "editorbet.ortak.me"
+    },
+    {
+      "name": "Casifix",
+      "logo": "https://res.ortak1.me/assets/themes/images/1727261289237.png",
+      "collections": 0,
+      "link": "casifix.ortak.me"
+    },
+    {
+      "name": "RafidenBet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1727261259236.png",
+      "collections": 0,
+      "link": "rafidenbet.ortak.me"
+    },
+    {
+      "name": "Maskebet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1727180711235.png",
+      "collections": 0,
+      "link": "maskebet.ortak.me"
+    },
+    {
+      "name": "Armabahis",
+      "logo": "https://res.ortak1.me/assets/themes/images/1727174242234.png",
+      "collections": 0,
+      "link": "armabahis.ortak.me"
+    },
+    {
+      "name": "Focusbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1727171398233.png",
+      "collections": 0,
+      "link": "focusbet.ortak.me"
+    },
+    {
+      "name": "Almanbahis",
+      "logo": "https://res.ortak1.me/assets/themes/images/1727171324232.png",
+      "collections": 0,
+      "link": "almanbahis.ortak.me"
+    },
+    {
+      "name": "Marjinbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1727171584231.png",
+      "collections": 0,
+      "link": "marjinbet.ortak.me"
+    },
+    {
+      "name": "wiocasino",
+      "logo": "https://res.ortak1.me/assets/themes/images/1727018785229.png",
+      "collections": 0,
+      "link": "wiocasino1.ortak.me"
+    },
+    {
+      "name": "7BET",
+      "logo": "https://res.ortak1.me/assets/themes/images/1726833192228.png",
+      "collections": 0,
+      "link": "7bet.ortak.me"
+    },
+    {
+      "name": "Norabahis",
+      "logo": "https://res.ortak1.me/assets/themes/images/1727442392227.png",
+      "collections": 0,
+      "link": "norabahisnft.ortak.me"
+    },
+    {
+      "name": "Duobahis",
+      "logo": "https://res.ortak1.me/assets/themes/images/1726728095225.jpg",
+      "collections": 0,
+      "link": "duobahis.ortak.me"
+    },
+    {
+      "name": "amk",
+      "logo": "https://res.ortak1.me/assets/themes/images/1726728050224.png",
+      "collections": 0,
+      "link": "amk.ortak.me"
+    },
+    {
+      "name": "BetAmiral",
+      "logo": "https://res.ortak1.me/assets/themes/images/1726727975223.png",
+      "collections": 0,
+      "link": "betamiral.ortak.me"
+    },
+    {
+      "name": "jourbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1726727939222.png",
+      "collections": 0,
+      "link": "jourbet.ortak.me"
+    },
+    {
+      "name": "Cloverbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736943107221.png",
+      "collections": 0,
+      "link": "cloverbet.ortak.me"
+    },
+    {
+      "name": "LordBet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1726727435220.png",
+      "collections": 0,
+      "link": "lordbet.ortak.me"
+    },
+    {
+      "name": "Haydi",
+      "logo": "https://res.ortak1.me/assets/themes/images/1726727345219.png",
+      "collections": 0,
+      "link": "haydi300.ortak.me"
+    },
+    {
+      "name": "Bekabet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1726727316218.png",
+      "collections": 0,
+      "link": "bekabet.ortak.me"
+    },
+    {
+      "name": "takewin",
+      "logo": "https://res.ortak1.me/assets/themes/images/1726727258217.png",
+      "collections": 0,
+      "link": "takewin200.ortak.me"
+    },
+    {
+      "name": "Betalsat",
+      "logo": "https://res.ortak1.me/assets/themes/images/1734011336216.jpg",
+      "collections": 0,
+      "link": "betalsat200.ortak.me"
+    },
+    {
+      "name": "betibom",
+      "logo": "https://res.ortak1.me/assets/themes/images/1726481528215.png",
+      "collections": 0,
+      "link": "betibom.ortak.me"
+    },
+    {
+      "name": "Grompoker",
+      "logo": "https://res.ortak1.me/assets/themes/images/1726646330214.png",
+      "collections": 0,
+      "link": "grompoker.ortak.me"
+    },
+    {
+      "name": "Ovibet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1726469649212.png",
+      "collections": 0,
+      "link": "ovibet.ortak.me"
+    },
+    {
+      "name": "Kafacasino",
+      "logo": "https://res.ortak1.me/assets/themes/images/1726469566211.png",
+      "collections": 0,
+      "link": "kafacasino.ortak.me"
+    },
+    {
+      "name": "Hepsibet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1739429643208.png",
+      "collections": 1,
+      "link": "hepsibet.ortak.me"
+    },
+    {
+      "name": "Reynabet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1726136985207.png",
+      "collections": 0,
+      "link": "reynabet.ortak.me"
+    },
+    {
+      "name": "Rekabet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1726135424206.png",
+      "collections": 0,
+      "link": "rekabet.ortak.me"
+    },
+    {
+      "name": "3xlwin",
+      "logo": "https://res.ortak1.me/assets/themes/images/1726135385205.png",
+      "collections": 1,
+      "link": "3xlwin.ortak.me"
+    },
+    {
+      "name": "Ilelebet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1726135274204.png",
+      "collections": 0,
+      "link": "ilelebet.ortak.me"
+    },
+    {
+      "name": "Panabahis",
+      "logo": "https://res.ortak1.me/assets/themes/images/1726135239203.png",
+      "collections": 0,
+      "link": "panabahisnft.ortak.me"
+    },
+    {
+      "name": "Laligabetting",
+      "logo": "https://res.ortak1.me/assets/themes/images/1726135188202.png",
+      "collections": 0,
+      "link": "laliganft.ortak.me"
+    },
+    {
+      "name": "Parabingo",
+      "logo": "https://res.ortak1.me/assets/themes/images/1726135140201.png",
+      "collections": 0,
+      "link": "parabingo.ortak.me"
+    },
+    {
+      "name": "Turkbahis",
+      "logo": "https://res.ortak1.me/assets/themes/images/1726135057200.png",
+      "collections": 0,
+      "link": "turkbahisnft.ortak.me"
+    },
+    {
+      "name": "Casimontra",
+      "logo": "https://res.ortak1.me/assets/themes/images/1726134839198.png",
+      "collections": 0,
+      "link": "casimontra.ortak.me"
+    },
+    {
+      "name": "sultaniran",
+      "logo": "https://res.ortak1.me/assets/themes/images/1726134768197.png",
+      "collections": 0,
+      "link": "sultannft.ortak.me"
+    },
+    {
+      "name": "Igorbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1726134653196.png",
+      "collections": 0,
+      "link": "Igorbet.ortak.me"
+    },
+    {
+      "name": "1000xbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1726646150194.png",
+      "collections": 0,
+      "link": "1000xbet.ortak.me"
+    },
+    {
+      "name": "Betranos",
+      "logo": "https://res.ortak1.me/assets/themes/images/1726646102193.png",
+      "collections": 0,
+      "link": "betranos.ortak.me"
+    },
+    {
+      "name": "sowinbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1726128400192.png",
+      "collections": 0,
+      "link": "sowinbetnft.ortak.me"
+    },
+    {
+      "name": "Mokkabet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1726128082190.png",
+      "collections": 0,
+      "link": "mokkabet.ortak.me"
+    },
+    {
+      "name": "Betnbetcrypto",
+      "logo": "https://res.ortak1.me/assets/themes/images/1726128017189.png",
+      "collections": 0,
+      "link": "betnbetcrypto.ortak.me"
+    },
+    {
+      "name": "Onikinumara",
+      "logo": "https://res.ortak1.me/assets/themes/images/1726127928188.png",
+      "collections": 0,
+      "link": "onikinumara.ortak.me"
+    },
+    {
+      "name": "Sahnebet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1726145560187.png",
+      "collections": 0,
+      "link": "sahnebet.ortak.me"
+    },
+    {
+      "name": "Misbahis",
+      "logo": "https://res.ortak1.me/assets/themes/images/1726127793186.png",
+      "collections": 0,
+      "link": "misbahis.ortak.me"
+    },
+    {
+      "name": "Bet994",
+      "logo": "https://res.ortak1.me/assets/themes/images/1736941368185.png",
+      "collections": 0,
+      "link": "bet994.ortak.me"
+    },
+    {
+      "name": "Sirenacasino",
+      "logo": "https://res.ortak1.me/assets/themes/images/1726127703184.png",
+      "collections": 0,
+      "link": "sirenacasino.ortak.me"
+    },
+    {
+      "name": "beymencasino",
+      "logo": "https://res.ortak1.me/assets/themes/images/1726127580183.png",
+      "collections": 0,
+      "link": "beymencasino.ortak.me"
+    },
+    {
+      "name": "spagobet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1726127335180.png",
+      "collections": 0,
+      "link": "spagobet.ortak.me"
+    },
+    {
+      "name": "casimontana",
+      "logo": "https://res.ortak1.me/assets/themes/images/1726127257179.png",
+      "collections": 0,
+      "link": "casimontana.ortak.me"
+    },
+    {
+      "name": "Zeroum",
+      "logo": "https://res.ortak1.me/assets/themes/images/1726127131178.png",
+      "collections": 0,
+      "link": "zeroum.ortak.me"
+    },
+    {
+      "name": "Sosabet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1730109556177.png",
+      "collections": 0,
+      "link": "sosabet.ortak.me"
+    },
+    {
+      "name": "Betyolu",
+      "logo": "https://res.ortak1.me/assets/themes/images/1726126935176.png",
+      "collections": 0,
+      "link": "betyolu177.ortak.me"
+    },
+    {
+      "name": "teklifbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1726126853175.png",
+      "collections": 0,
+      "link": "teklifbet.ortak.me"
+    },
+    {
+      "name": "Betenerji",
+      "logo": "https://res.ortak1.me/assets/themes/images/1726135942174.png",
+      "collections": 0,
+      "link": "betenerji.ortak.me"
+    },
+    {
+      "name": "Betscobar",
+      "logo": "https://res.ortak1.me/assets/themes/images/1726126588173.png",
+      "collections": 0,
+      "link": "betscobar.ortak.me"
+    },
+    {
+      "name": "NYCbahis",
+      "logo": "https://res.ortak1.me/assets/themes/images/1726125770172.png",
+      "collections": 0,
+      "link": "nycbahis.ortak.me"
+    },
+    {
+      "name": "Tiosbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1726136020171.png",
+      "collections": 0,
+      "link": "tiosbet1.ortak.me"
+    },
+    {
+      "name": "Betface",
+      "logo": "https://res.ortak1.me/assets/themes/images/1726125649170.png",
+      "collections": 0,
+      "link": "betface717.ortak.me"
+    },
+    {
+      "name": "Foxbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1726125601169.png",
+      "collections": 0,
+      "link": "foxbet500.ortak.me"
+    },
+    {
+      "name": "Baladbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1726125538168.png",
+      "collections": 0,
+      "link": "baladbet.ortak.me"
+    },
+    {
+      "name": "Betseans",
+      "logo": "https://res.ortak1.me/assets/themes/images/1726125011165.png",
+      "collections": 0,
+      "link": "betseans.ortak.me"
+    },
+    {
+      "name": "maxwoon",
+      "logo": "https://res.ortak1.me/assets/themes/images/1726124128163.png",
+      "collections": 0,
+      "link": "maxwoon.ortak.me"
+    },
+    {
+      "name": "remaxbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1725878041162.png",
+      "collections": 0,
+      "link": "remaxbet.ortak.me"
+    },
+    {
+      "name": "mistikacasino",
+      "logo": "https://res.ortak1.me/assets/themes/images/1725878000161.png",
+      "collections": 0,
+      "link": "mistikacasino.ortak.me"
+    },
+    {
+      "name": "betkare",
+      "logo": "https://res.ortak1.me/assets/themes/images/1725454164160.png",
+      "collections": 0,
+      "link": "betkare.ortak.me"
+    },
+    {
+      "name": "betcore",
+      "logo": "https://res.ortak1.me/assets/themes/images/1725437135159.png",
+      "collections": 0,
+      "link": "betcore.ortak.me"
+    },
+    {
+      "name": "Oleybet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1725437089158.png",
+      "collections": 0,
+      "link": "oleybetnft.ortak.me"
+    },
+    {
+      "name": "Ubet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1725373739157.png",
+      "collections": 0,
+      "link": "ubet.ortak.me"
+    },
+    {
+      "name": "Balinabet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1725373597156.png",
+      "collections": 0,
+      "link": "balinabet.ortak.me"
+    },
+    {
+      "name": "logobahis",
+      "logo": "https://res.ortak1.me/assets/themes/images/1725373490155.png",
+      "collections": 0,
+      "link": "logobahis.ortak.me"
+    },
+    {
+      "name": "Hukumdarbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1725361814154.png",
+      "collections": 1,
+      "link": "hukumdarbet.ortak.me"
+    },
+    {
+      "name": "321betz",
+      "logo": "https://res.ortak1.me/assets/themes/images/1725361683153.png",
+      "collections": 0,
+      "link": "betted.ortak.me"
+    },
+    {
+      "name": "paribug",
+      "logo": "https://res.ortak1.me/assets/themes/images/1725281650152.png",
+      "collections": 0,
+      "link": "paribug.ortak.me"
+    },
+    {
+      "name": "dobord",
+      "logo": "https://res.ortak1.me/assets/themes/images/1730109469151.png",
+      "collections": 0,
+      "link": "dobord.ortak.me"
+    },
+    {
+      "name": "betwix",
+      "logo": "https://res.ortak1.me/assets/themes/images/1725262979149.png",
+      "collections": 0,
+      "link": "ryl.ortak.me"
+    },
+    {
+      "name": "fast",
+      "logo": "https://res.ortak1.me/assets/themes/images/1725028035148.png",
+      "collections": 0,
+      "link": "fast.ortak.me"
+    },
+    {
+      "name": "betmanta",
+      "logo": "https://res.ortak1.me/assets/themes/images/1724940044147.png",
+      "collections": 0,
+      "link": "betmanta329.ortak.me"
+    },
+    {
+      "name": "betnixe",
+      "logo": "https://res.ortak1.me/assets/themes/images/1724924532146.png",
+      "collections": 0,
+      "link": "betnixe.ortak.me"
+    },
+    {
+      "name": "cazinno1",
+      "logo": "https://res.ortak1.me/assets/themes/images/1724924508145.png",
+      "collections": 1,
+      "link": "cazinno.ortak.me"
+    },
+    {
+      "name": "Samosbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1724924432144.png",
+      "collections": 0,
+      "link": "samosbet.ortak.me"
+    },
+    {
+      "name": "betciks",
+      "logo": "https://res.ortak1.me/assets/themes/images/1724924414143.png",
+      "collections": 0,
+      "link": "betciks.ortak.me"
+    },
+    {
+      "name": "linecasino",
+      "logo": "https://res.ortak1.me/assets/themes/images/1724924366142.png",
+      "collections": 0,
+      "link": "linecasino.ortak.me"
+    },
+    {
+      "name": "Casinova",
+      "logo": "https://res.ortak1.me/assets/themes/images/1724924298141.png",
+      "collections": 0,
+      "link": "casinova.ortak.me"
+    },
+    {
+      "name": "Enjetbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1725011173140.png",
+      "collections": 0,
+      "link": "enjetbet.ortak.me"
+    },
+    {
+      "name": "pelebet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1724924107139.png",
+      "collections": 0,
+      "link": "pelebet.ortak.me"
+    },
+    {
+      "name": "1tikbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1724838144138.png",
+      "collections": 0,
+      "link": "1tikbet.ortak.me"
+    },
+    {
+      "name": "otantikbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1724833251137.png",
+      "collections": 0,
+      "link": "otantikbet120.ortak.me"
+    },
+    {
+      "name": "Revolwin",
+      "logo": "https://res.ortak1.me/assets/themes/images/1724833107136.png",
+      "collections": 0,
+      "link": "revolwin.ortak.me"
+    },
+    {
+      "name": "pegascasino",
+      "logo": "https://res.ortak1.me/assets/themes/images/1724833023135.png",
+      "collections": 0,
+      "link": "pegascasino1.ortak.me"
+    },
+    {
+      "name": "thebet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1724832933134.png",
+      "collections": 0,
+      "link": "thebet300.ortak.me"
+    },
+    {
+      "name": "casinobell",
+      "logo": "https://res.ortak1.me/assets/themes/images/1724832856133.png",
+      "collections": 0,
+      "link": "casinobell.ortak.me"
+    },
+    {
+      "name": "Betebak",
+      "logo": "https://res.ortak1.me/assets/themes/images/1724832789132.png",
+      "collections": 0,
+      "link": "betebak16.ortak.me"
+    },
+    {
+      "name": "Faffbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1730109755131.png",
+      "collections": 0,
+      "link": "faff.ortak.me"
+    },
+    {
+      "name": "ozabet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1724745414130.png",
+      "collections": 0,
+      "link": "ozabetnft.ortak.me"
+    },
+    {
+      "name": "cheetabet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1724745324129.png",
+      "collections": 0,
+      "link": "cheetabetnft.ortak.me"
+    },
+    {
+      "name": "ze.bet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1724745244128.png",
+      "collections": 0,
+      "link": "zebet.ortak.me"
+    },
+    {
+      "name": "efesbetcasino",
+      "logo": "https://res.ortak1.me/assets/themes/images/1724745090126.png",
+      "collections": 0,
+      "link": "efesbetcasinonft.ortak.me"
+    },
+    {
+      "name": "nimabet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1725263334125.png",
+      "collections": 0,
+      "link": "nimabetnft.ortak.me"
+    },
+    {
+      "name": "bcbahis",
+      "logo": "https://res.ortak1.me/assets/themes/images/1724744930124.jpg",
+      "collections": 0,
+      "link": "bc.ortak.me"
+    },
+    {
+      "name": "majorbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1724744855123.png",
+      "collections": 0,
+      "link": "majorbet90.ortak.me"
+    },
+    {
+      "name": "vegaspalazzo",
+      "logo": "https://res.ortak1.me/assets/themes/images/1724744709122.png",
+      "collections": 0,
+      "link": "vegaspalazzo.ortak.me"
+    },
+    {
+      "name": "betparibu",
+      "logo": "https://res.ortak1.me/assets/themes/images/1724671365121.png",
+      "collections": 0,
+      "link": "bp.ortak.me"
+    },
+    {
+      "name": "wise-bet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1730103913120.png",
+      "collections": 0,
+      "link": "wise-bet.ortak.me"
+    },
+    {
+      "name": "DomCasino",
+      "logo": "https://res.ortak1.me/assets/themes/images/1724670596119.png",
+      "collections": 0,
+      "link": "dom-casino.ortak.me"
+    },
+    {
+      "name": "pokerbetaspor",
+      "logo": "https://res.ortak1.me/assets/themes/images/1724670427118.png",
+      "collections": 0,
+      "link": "pokerbetaspor.ortak.me"
+    },
+    {
+      "name": "casinobeymen",
+      "logo": "https://res.ortak1.me/assets/themes/images/1724670331117.png",
+      "collections": 0,
+      "link": "casinobeymen.ortak.me"
+    },
+    {
+      "name": "vizebet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1724670296116.png",
+      "collections": 0,
+      "link": "vizeftn.com"
+    },
+    {
+      "name": "dubaicasino",
+      "logo": "https://res.ortak1.me/assets/themes/images/1724679529114.png",
+      "collections": 0,
+      "link": "dubaicasino125.ortak.me"
+    },
+    {
+      "name": "game-galaxybetting",
+      "logo": "https://res.ortak1.me/assets/themes/images/1724658457113.png",
+      "collections": 1,
+      "link": "galaxybettingnft.ortak.me"
+    },
+    {
+      "name": "redcasino",
+      "logo": "https://res.ortak1.me/assets/themes/images/1724658259112.png",
+      "collections": 0,
+      "link": "redcasino.ortak.me"
+    },
+    {
+      "name": "betcopa",
+      "logo": "https://res.ortak1.me/assets/themes/images/1724658234111.png",
+      "collections": 0,
+      "link": "betcopa.ortak.me"
+    },
+    {
+      "name": "freebet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1724658017109.png",
+      "collections": 0,
+      "link": "freebet10.ortak.me"
+    },
+    {
+      "name": "magnumbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1724657982108.png",
+      "collections": 0,
+      "link": "magnumbet.ortak.me"
+    },
+    {
+      "name": "bahsinadi",
+      "logo": "https://res.ortak1.me/assets/themes/images/1724657955107.png",
+      "collections": 0,
+      "link": "bahsinadi.ortak.me"
+    },
+    {
+      "name": "bitcasino",
+      "logo": "https://res.ortak1.me/assets/themes/images/1724657860106.png",
+      "collections": 0,
+      "link": "bitcasino365.ortak.me"
+    },
+    {
+      "name": "ozbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/1724657800105.png",
+      "collections": 0,
+      "link": "ozbet.ortak.me"
+    },
+    {
+      "name": "babalacasino",
+      "logo": "https://res.ortak1.me/assets/themes/images/172425205095.png",
+      "collections": 0,
+      "link": "babalacasino.ortak.me"
+    },
+    {
+      "name": "maksibet",
+      "logo": "https://res.ortak1.me/assets/themes/images/172553313293.png",
+      "collections": 1,
+      "link": "maksibetnft.com"
+    },
+    {
+      "name": "betroys",
+      "logo": "https://res.ortak1.me/assets/themes/images/172424952888.png",
+      "collections": 0,
+      "link": "betroys.ortak.me"
+    },
+    {
+      "name": "rinomo",
+      "logo": "https://res.ortak1.me/assets/themes/images/172424940787.png",
+      "collections": 0,
+      "link": "rinomo.ortak.me"
+    },
+    {
+      "name": "richycashbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/172424936086.png",
+      "collections": 0,
+      "link": "richycashbet.ortak.me"
+    },
+    {
+      "name": "hipodromcasino",
+      "logo": "https://res.ortak1.me/assets/themes/images/172424943985.png",
+      "collections": 0,
+      "link": "hipodromcasino.ortak.me"
+    },
+    {
+      "name": "albet",
+      "logo": "https://res.ortak1.me/assets/themes/images/172415141984.png",
+      "collections": 0,
+      "link": "albet.ortak.me"
+    },
+    {
+      "name": "goley90",
+      "logo": "https://res.ortak1.me/assets/themes/images/172406996478.png",
+      "collections": 0,
+      "link": "goley90ortak.com"
+    },
+    {
+      "name": "lasbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/172406488277.png",
+      "collections": 0,
+      "link": "las.ortak.me"
+    },
+    {
+      "name": "curebet",
+      "logo": "https://res.ortak1.me/assets/themes/images/172406479376.png",
+      "collections": 0,
+      "link": "dan.ortak.me"
+    },
+    {
+      "name": "waowin",
+      "logo": "https://res.ortak1.me/assets/themes/images/172406988374.png",
+      "collections": 0,
+      "link": "nftbinance.com"
+    },
+    {
+      "name": "game-bet-go",
+      "logo": "https://res.ortak1.me/assets/themes/images/172406986373.png",
+      "collections": 2,
+      "link": "betgonft.online"
+    },
+    {
+      "name": "cryptobet",
+      "logo": "https://res.ortak1.me/assets/themes/images/172406990372.png",
+      "collections": 0,
+      "link": "crypto.ortak.me"
+    },
+    {
+      "name": "skyloftsbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/172415131271.png",
+      "collections": 0,
+      "link": "skyloftsbet.ortak.me"
+    },
+    {
+      "name": "betkwacha",
+      "logo": "https://res.ortak1.me/assets/themes/images/172406975970.png",
+      "collections": 0,
+      "link": "betkwacha.ortak.me"
+    },
+    {
+      "name": "csplay",
+      "logo": "https://res.ortak1.me/assets/themes/images/172406313169.png",
+      "collections": 0,
+      "link": "csplay.ortak.me"
+    },
+    {
+      "name": "romabet",
+      "logo": "https://res.ortak1.me/assets/themes/images/174056251168.png",
+      "collections": 0,
+      "link": "romabet.ortak.me"
+    },
+    {
+      "name": "wayxbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/172425126067.PNG",
+      "collections": 1,
+      "link": "wayxbet.ortak.me"
+    },
+    {
+      "name": "tophillbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/172614547064.png",
+      "collections": 1,
+      "link": "tophillbet.ortak.me"
+    },
+    {
+      "name": "xroyal",
+      "logo": "https://res.ortak1.me/assets/themes/images/172406237763.png",
+      "collections": 0,
+      "link": "royal.ortak.me"
+    },
+    {
+      "name": "vaycasino",
+      "logo": "https://res.ortak1.me/assets/themes/images/172406980862.png",
+      "collections": 2,
+      "link": "vayftn.com"
+    },
+    {
+      "name": "olaycasino",
+      "logo": "https://res.ortak1.me/assets/themes/images/172467666861.png",
+      "collections": 0,
+      "link": "ortakolay.ortak.me"
+    },
+    {
+      "name": "lidlbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/172743784358.png",
+      "collections": 0,
+      "link": "lidlbet.ortak.me"
+    },
+    {
+      "name": "betbanana",
+      "logo": "https://res.ortak1.me/assets/themes/images/172381367657.png",
+      "collections": 0,
+      "link": "betbanana.ortak.me"
+    },
+    {
+      "name": "meritlimancasino",
+      "logo": "https://res.ortak1.me/assets/themes/images/172381371556.png",
+      "collections": 0,
+      "link": "meritlimanortak.com"
+    },
+    {
+      "name": "bettogg",
+      "logo": "https://res.ortak1.me/assets/themes/images/172381378454.png",
+      "collections": 0,
+      "link": "bettogg.ortak.me"
+    },
+    {
+      "name": "nicosiabetting",
+      "logo": "https://res.ortak1.me/assets/themes/images/172381380353.png",
+      "collections": 0,
+      "link": "kktcbet.ortak.me"
+    },
+    {
+      "name": "zibilyonortak",
+      "logo": "https://res.ortak1.me/assets/themes/images/172381394751.png",
+      "collections": 0,
+      "link": "zibilyonortak.com"
+    },
+    {
+      "name": "candy.ortak.me",
+      "logo": "https://res.ortak1.me/assets/themes/images/172381396850.png",
+      "collections": 0,
+      "link": "candy.ortak.me"
+    },
+    {
+      "name": "Kulisbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/172381398249.png",
+      "collections": 0,
+      "link": "kulis.ortak.me"
+    },
+    {
+      "name": "bportak",
+      "logo": "https://res.ortak1.me/assets/themes/images/172381399948.png",
+      "collections": 0,
+      "link": "bportak.me"
+    },
+    {
+      "name": "betarabia",
+      "logo": "https://res.ortak1.me/assets/themes/images/172381402247.png",
+      "collections": 0,
+      "link": "betarabia.ortak.me"
+    },
+    {
+      "name": "meritbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/172381687144.png",
+      "collections": 2,
+      "link": "meritbetnft.com"
+    },
+    {
+      "name": "patracasino",
+      "logo": "https://res.ortak1.me/assets/themes/images/172381417139.png",
+      "collections": 0,
+      "link": "patranft.com"
+    },
+    {
+      "name": "keonbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/172381419538.png",
+      "collections": 0,
+      "link": "keonbetnft.com"
+    },
+    {
+      "name": "bibahisbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/172381424136.png",
+      "collections": 0,
+      "link": "bibahisnft.com"
+    },
+    {
+      "name": "orbibet",
+      "logo": "https://res.ortak1.me/assets/themes/images/172381704135.png",
+      "collections": 0,
+      "link": "orbibetnft.com"
+    },
+    {
+      "name": "vbet",
+      "logo": "https://res.ortak1.me/assets/themes/images/vbet.ortak.svg",
+      "collections": 20,
+      "link": "vbet.ortak.me"
+    }
+  ]
+}
